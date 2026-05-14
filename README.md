@@ -2,7 +2,7 @@
 
 **Rewrite your investor letter in the voice of Mark Leonard, Marc Andreessen, or Jeff Bezos.**
 
-→ Live app: LINK
+→ Live app: https://investorvoice.lovable.app
 ---
 
 ## What it does
